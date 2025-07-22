@@ -1,1 +1,1 @@
-# mabinogimobile
+# 마비노기 모바일 pc사이트 리뉴얼
